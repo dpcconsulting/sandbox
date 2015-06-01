@@ -1,0 +1,6 @@
+In Git we trust!
+Updates were rejected: use the --force
+I git by with a little help from my friends
+
+Find more at:
+https://github.com/EugeneKay/git-jokes/blob/lulz/Jokes.txt
